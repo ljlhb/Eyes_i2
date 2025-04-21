@@ -47,6 +47,7 @@ i2Eyes教程
 
 安装第二个号角。
 ![image](https://github.com/user-attachments/assets/f598213e-39b0-4b6b-9f92-0fd6d23a1295)
+
 ![image](https://github.com/user-attachments/assets/be6d85bf-1f4c-45a1-b1b8-2140d21ff306)
 
 使用伺服器附带的 3 毫米螺丝固定第二个喇叭。
@@ -63,6 +64,7 @@ i2Eyes教程
 
 将侧底座组装到主底座上。
 ![image](https://github.com/user-attachments/assets/d0e0b18d-4bd7-484d-97b8-c7cc5d8ccb45)
+
 ![image](https://github.com/user-attachments/assets/7936dda9-941b-484e-ad42-aec47cda6473)
 
 使用 3 个2 x 6mm自攻沉头螺钉 将侧底座与主底座固定在一起。确保它们完全位于沉头孔中，否则一旦安装在头部，它们可能会给您带来麻烦。
@@ -193,6 +195,7 @@ https://youtu.be/ibZgKFSIYjg
 使用 2.5 毫米钻头重新钻 EyeToNose 上的所有孔。
 
 ![image](https://github.com/user-attachments/assets/0a65cb40-8ab2-4298-909d-9a88a04f3c7c)
+
 ![image](https://github.com/user-attachments/assets/3c5011a3-ec1d-4fb7-8c47-f3741478f3e2)
 用直径为 3 毫米的凸片盖住所有孔。
 
