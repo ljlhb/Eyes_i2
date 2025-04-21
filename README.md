@@ -24,7 +24,7 @@ i2Eyes为 1 个右眼打印的部件：
 
 i2Eyes教程
 
-![image](https://github.com/user-attachments/assets/0a5042f4-7e16-448c-ba81-827f5d301f09)
+![image](https://github.com/user-attachments/assets/446e2162-113b-4f7e-b287-7afe917a9c23)
 
 ![image](https://github.com/user-attachments/assets/b72adf01-d14d-4386-a48b-df5c185c9ed9)
 
