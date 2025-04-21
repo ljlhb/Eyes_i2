@@ -141,6 +141,7 @@ i2Eyes 与 Myrobotlab 中的原有眼睛同步。这确保了当机器人向上�
 为此，您需要编辑位于 data/config/yourConfig/i01.head.eyeX.yml 中的配置，并添加如下所示的同步部分：
 ![image](https://github.com/user-attachments/assets/1c7003bc-add2-49f4-b983-b217d7f0fef7)
 
+
 对 data/config/yourConfig/i01.head.eyeY.yml 执行相同操作：
 ![image](https://github.com/user-attachments/assets/a6f5b9f0-ed63-4d3c-a8fa-d16f68e2ff06)
 
@@ -149,6 +150,7 @@ i2Eyes 与 Myrobotlab 中的原有眼睛同步。这确保了当机器人向上�
 
 
 **眼罩制作教程：**
+
 眼睛机制
 眼部机构组装
 这个新机制的灵感来自Mats Onnerby和Bob Houston。它取代了我之前的眼睛机制，你仍然可以在完成以下教程后找到它。
@@ -192,6 +194,7 @@ https://youtu.be/ibZgKFSIYjg
 
 步骤1：
 ![image](https://github.com/user-attachments/assets/63ea751b-0324-4e13-8758-939ed5f26373)
+
 使用 2.5 毫米钻头重新钻 EyeToNose 上的所有孔。
 
 ![image](https://github.com/user-attachments/assets/0a65cb40-8ab2-4298-909d-9a88a04f3c7c)
@@ -200,62 +203,83 @@ https://youtu.be/ibZgKFSIYjg
 用直径为 3 毫米的凸片盖住所有孔。
 
 ![image](https://github.com/user-attachments/assets/3d760740-7ffb-4f95-9780-64a2d89fa7f0)
+
 ![image](https://github.com/user-attachments/assets/6197645f-c49f-429b-b8b6-8f49d00fced5)
+
 胶水，如果您有 ABS 打印件，则使用丙酮；如果您有 PLA，则使用环氧树脂，将 EyeToNose 和 EyeGlass 粘合在一起。
 
 ![image](https://github.com/user-attachments/assets/d52734eb-60fe-48bc-b70e-97d91890a6bb)
+
 用 3 毫米突出部重新钻好 EyeSupport 的 4 个大孔之后的突出部。
 
 ![image](https://github.com/user-attachments/assets/f8d655b2-73fb-493b-a3eb-98c36efc1a19)
+
 用 3 毫米钻头重新钻 EyeHolder 的两个孔。
 
 ![image](https://github.com/user-attachments/assets/d70e0245-e23e-422c-aec9-d3556c49c813)
+
 插入并安装四颗3毫米螺丝。您可以按照图示添加螺栓来固定它们。
 
 ![image](https://github.com/user-attachments/assets/cedaf17a-3d19-4696-b32b-3e49cac3055f)
+
 用 3 毫米钻头重新钻好两个 EyeBallSupport 的孔后，按图示安装它们。此时，您还可以将 Hercules 摄像头添加到 EyeBallSupport 上。我的照片没有显示 HerculesHD 摄像头的安装，因为我当时正在尝试另一种摄像头。
 
 ![image](https://github.com/user-attachments/assets/55338d93-a822-4dc1-9b4a-6107cc6a13f7)
+
 这里我用的是微软的 LifeCamHD 3000。画质似乎不如 Hercules Twist HD。需要注意的是，由于摄像头的 PCB 是水平放置的，所以 EyeBallSupport 有所不同。
 
 步骤2：
 ![image](https://github.com/user-attachments/assets/2987b2a2-7b27-4abd-b1e0-1d3a483344c4)
+
 使用螺丝安装 Hobbyking 的一个 DS929HV 伺服器。
 
 ![image](https://github.com/user-attachments/assets/1f77789e-803b-4e89-afd1-9dc6b941adf6)
+
 ![image](https://github.com/user-attachments/assets/6eb98f2e-10c2-4558-896a-f4fd440d91aa)
+
 将伺服器设置为 0 度，并将喇叭设置如图所示。
 
 ![image](https://github.com/user-attachments/assets/a0d92b37-64c2-49bd-a295-0799c3076382)
+
 安装第二个伺服器 DS929HV。
 
 ![image](https://github.com/user-attachments/assets/93c669bc-a01c-444a-a08b-9c5532d7c584)
+
 将伺服器设置为 0 度，并将喇叭安装在类似于 45 度角的位置。
 
 ![image](https://github.com/user-attachments/assets/c686e573-183b-48a6-abbd-d125e4d0b77c)
+
 添加带有两个直径为 3 毫米的螺丝的 EyeHolder。
 
 ![image](https://github.com/user-attachments/assets/2ff9d322-aaa0-402b-b23d-2486415ff0f0)
+
 并将该机构固定到 EyetoNose 上。安装完成后，它应该能够绕轴自由旋转。
 
 ![image](https://github.com/user-attachments/assets/9f8bba6b-3250-4475-abd0-966d432e727f)
+
 将 EyeHingeCurve 安装并拧紧在伺服喇叭和 EyeToNose 之间。这样，该机构应该能够在其轴上自由旋转。
 
 ![image](https://github.com/user-attachments/assets/38c59d11-861a-4505-98fe-9c454309aa62)
+
 ![image](https://github.com/user-attachments/assets/e2d42880-fbb3-4e00-a507-db641e9c4d78)
+
 在 EyeBallSupport 的背面添加 EyePlates。你可以用胶水粘住它们，也可以用螺丝拧紧。
 
 ![image](https://github.com/user-attachments/assets/04862a2d-ac57-4a25-bc4c-bd3523de88ce)
+
 ![image](https://github.com/user-attachments/assets/48898cfb-b599-4f88-b40b-9c18b3024ab7)
+
 安装并拧紧顶部伺服器和眼板之间的两个眼铰链。
 
 步骤3：
 现在我们将通过几个简单的步骤创建一些逼真的眼睛。
 
 ![image](https://github.com/user-attachments/assets/f999f1ab-2240-4f69-aca6-252884debf95)
+
 拧下 EyeToNose 的两个螺丝，卸下机械装置，以便接触眼睛的前部。
 
 ![image](https://github.com/user-attachments/assets/dbfb71e3-3d64-4bfc-aece-559d3337eda4)
+
 这是一套完整的 EyeBall 套装。
 
 以下是戒指订单安排：
@@ -265,42 +289,55 @@ https://youtu.be/ibZgKFSIYjg
 现在让您的创造力尽情发挥吧！！
 
 ![image](https://github.com/user-attachments/assets/5e35cd60-7f20-434a-8009-bb225256dec5)
+
 喷漆或用你喜欢的彩色马克笔在瞳孔环上画一个底色。我用的是哑光蓝色喷漆。你也可以打印IrisEye 文件并剪下来。
 
 ![image](https://github.com/user-attachments/assets/0024e143-c465-4e82-926e-c22a7b62ce41)
+
 用另一支细细的黑色马克笔，从中心向外画几条细线。正如我图片所示，画得并不完美。但如果你足够优秀，并且富有创意，你真的可以画出非常逼真的作品。
 
 ![image](https://github.com/user-attachments/assets/dd2074b0-af33-42c6-864f-a61c5f7d26b9)
+
 在这个外圈上也用细记号笔添加一些小线条。
 
 ![image](https://github.com/user-attachments/assets/cfa7fc72-4e78-4153-8b1e-6b666fa9f203)
+
 用黑色喷漆完成虹膜环。
 
 ![image](https://github.com/user-attachments/assets/d5d765d9-a8f9-451b-a2e2-e9da23e43b52)
+
 现在将所有环组装在一起。
 
 ![image](https://github.com/user-attachments/assets/c9fade30-4e73-4ec0-9b4e-983f2357b03f)
+
 你也可以用智能手机的鱼眼镜头替换外圈、瞳孔和虹膜。但看起来不太真实。
 
 ![image](https://github.com/user-attachments/assets/4639dcf1-358d-4fac-86b7-56adc4e25722)
+
 为了让眼睛更加逼真，让我们发挥创意吧！现在我们要制作眼睛的透明盖。
 
 ![image](https://github.com/user-attachments/assets/4836f38a-bc3a-42a4-8ae8-01da1dfd0f6d)
+
 您将需要一把热风枪，一个直径约 3 厘米的玻璃球（我用了我妻子的“Dior, J'adore”香水瓶盖，太漂亮了！！您还需要一块热成型塑料（水晶透明更好，否则会改变相机视觉效果）我个人使用了一块灯泡泡罩。但是任何水晶泡罩都可以完成这项工作。
 
 ![image](https://github.com/user-attachments/assets/a045370e-e343-4f59-b072-f4a99f1f6872)
+
 清洁所有表面，以确保在热成型过程中不会因灰尘或划痕而改变透明塑料。
 
 ![image](https://github.com/user-attachments/assets/e09a18bd-d955-44b2-b6b2-38207a90f581)
+
 将热风吹在塑料上，当它开始变软时，将其涂抹并拉伸到玻璃球上。等待冷却。
 
 ![image](https://github.com/user-attachments/assets/b9a0bf8c-c6dc-4e8a-9075-c4d93e3b882a)
+
 使用瞳孔环标记圆圈，然后用剪刀剪出扁针。
 
 ![image](https://github.com/user-attachments/assets/0a3a11a8-2d8b-44f4-9174-4759a2640cd7)
+
 在周边添加一点胶水，小心清洁并避免在内表面留下手指痕迹。
 
 ![image](https://github.com/user-attachments/assets/654c470d-1db7-48e6-a013-97669e9e5fd4)
+
 将扁豆粘在瞳孔环上。让它干燥。
 
 对第二只眼睛做同样的事情。
